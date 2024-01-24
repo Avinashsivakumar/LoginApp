@@ -2,21 +2,33 @@ This repository contains a simple web-based registration module designed to capt
 but did code that part and working on it. Also due to time constraint and version incompatibility the staablitity of routing is bit week.
 The initial login page
 
-<img width="1440" alt="Screenshot 2024-01-24 at 3 04 25 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/6aa16598-9982-4152-b045-18c2105723b8">
+<img width="1440" alt="Screenshot 2024-01-24 at 3 47 31 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/9b2bb7b9-d4a3-4ba0-b1fb-e92c9d1240f8">
 
 The initial Registration page 
 
-<img width="1440" alt="Screenshot 2024-01-24 at 3 07 40 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/20c41299-85c2-4479-a007-104566e48ec5">
+<img width="1440" alt="Screenshot 2024-01-24 at 3 56 29 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/e8af65f0-a467-4864-a98a-e5a4c77128eb">
 
 Welcome page that is the main page
 
 <img width="1440" alt="Screenshot 2024-01-24 at 3 42 51 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/80497192-c2ac-435e-bdf2-2d6b299bcfdf">
 
-shows the error on incorrect details
+shows the error on incorrect details on login
 
-<img width="1440" alt="Screenshot 2024-01-24 at 3 06 00 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/371d2c8b-f6ae-42f4-9278-209e8fb2af3d">
+<img width="1440" alt="Screenshot 2024-01-24 at 3 57 43 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/81c6af7a-b75d-4504-b7e2-3d56d0224861">
 
-<img width="1440" alt="Screenshot 2024-01-24 at 3 07 31 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/f957c0e4-03bd-4986-aced-886365bf5fc7">
+And doesnt login without valid credentials 
+
+<img width="1440" alt="Screenshot 2024-01-24 at 4 00 01 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/2fbc2ede-73c5-4879-9091-ca2046a50758">
+
+shows the error on incorrect details on Registration page
+
+<img width="1440" alt="Screenshot 2024-01-24 at 3 53 52 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/2040f979-1fbb-4d06-8d89-cd1dd44c5b00">
+
+<img width="1440" alt="Screenshot 2024-01-24 at 3 54 32 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/ebdcbed3-1403-4dc2-b3ea-efc4de457a6b">
+
+Mandatory fields in Registration page (every field is Mandatory)
+
+<img width="1440" alt="Screenshot 2024-01-24 at 3 53 22 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/e0e07e7c-2da3-4fa7-b528-a26e1d3ddd18">
 
 Wasnt able to connect it full fledgedly but created servers and databases for login and token verification
 
