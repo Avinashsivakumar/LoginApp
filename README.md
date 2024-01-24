@@ -1,5 +1,5 @@
 This repository contains a simple web-based registration module designed to capture user information and facilitate user authentication. The project is implemented using HTML, CSS, and JavaScript, with the backend utilizing Node.js, Express, and either SQL or MongoDB as the database. Wasnt able to completely implement the email system verification during signup
-but did code that part and working on it.Also due to some version and stablity issue couldnt route it to the Welcome page
+but did code that part and working on it. Also due to time constraint and version incompatibility the staablitity of routing is bit week.
 The initial login page
 
 <img width="1440" alt="Screenshot 2024-01-24 at 3 04 25 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/6aa16598-9982-4152-b045-18c2105723b8">
