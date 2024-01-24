@@ -30,6 +30,10 @@ Mandatory fields in Registration page (every field is Mandatory)
 
 <img width="1440" alt="Screenshot 2024-01-24 at 3 53 22 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/e0e07e7c-2da3-4fa7-b528-a26e1d3ddd18">
 
+If all the entered details are correct and the registration is successfull 
+
+<img width="1440" alt="Screenshot 2024-01-24 at 4 20 57 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/a049c266-c305-4bf7-a999-06160e81cb06">
+
 Wasnt able to connect it full fledgedly but created servers and databases for login and token verification
 
 <img width="619" alt="Screenshot 2024-01-24 at 3 10 47 PM" src="https://github.com/Avinashsivakumar/LoginApp/assets/104902430/e1a40cd9-9823-429f-8111-c9905631b13f">
